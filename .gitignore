@@ -83,3 +83,20 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+
+# osx
+.DS_Store
+**/.DS_Store
+.DS_Store?
+
+# my file
+*.properties
+release/
+debug/
+.idea/
+._LICENSE
+gradle/
+._*
+proguardMapping.txt
+gradlew
+gradlew.bat
